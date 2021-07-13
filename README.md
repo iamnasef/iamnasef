@@ -3,8 +3,7 @@
 <img src="/img/cover.png">
 
 <h3 align="center">
-Keeping You Safe - Application Security Engineer / Cyber Security Instructor
-
+Application Security Engineer / Cyber Security Instructor
 </h3>
 
 
@@ -16,3 +15,4 @@ in the cyber security space, my goal became crestal clear, Keeping You Safe.
 ```
 
 
+### About me
