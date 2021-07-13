@@ -3,7 +3,7 @@
 <img src="/img/cover.png">
 
 <h3 align="center">
-Application Security Engineer / Cyber Security Instructor
+Keeping You Safe
 </h3>
 
 
