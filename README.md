@@ -21,6 +21,3 @@ Combining my technical skills in application security engineering, my soft skill
 giving technical security workshops, giving cyber security awareness workshops, and continuously wanting to spread my knowledge 
 in the cyber security space, my goal became crestal clear, Keeping You Safe. 
 ```
-
-
-### About me
