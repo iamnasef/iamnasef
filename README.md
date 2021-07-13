@@ -1,6 +1,6 @@
 # Hi there, I am Nasef 👋👋👋
 
-<img src="/img/cover.png">
+
 
 <h3 align="center">
 Keeping You Safe
@@ -13,7 +13,7 @@ Keeping You Safe
 <a href="https://www.youtube.com/channel/UCoxP4Z6Wfz60fFtB31gyNlQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-
+<img src="/img/cover.png">
 ```
 Since my laptop got hacked, I've backpacked for a cyber security journey where I tirelessly in pursuit of keeping people safe. 
 Combining my technical skills in application security engineering, my soft skills in communicating with clients and employers,
