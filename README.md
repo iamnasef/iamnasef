@@ -2,11 +2,11 @@
 
 <img src="/img/cover.png">
 <h2 align="center">
-Application Security Engineer / Cyber Security Content Creator
+Keeping You Safe
 </h2>
 
 <h3 align="center">
-Keeping You Safe
+Application Security Engineer / Cyber Security Instructor
 
 </h3>
 
