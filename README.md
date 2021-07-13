@@ -14,6 +14,7 @@ Keeping You Safe
 </p>
 
 <img src="/img/cover.png">
+
 ```
 Since my laptop got hacked, I've backpacked for a cyber security journey where I tirelessly in pursuit of keeping people safe. 
 Combining my technical skills in application security engineering, my soft skills in communicating with clients and employers,
