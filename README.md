@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-Keeping You Safe
+Securing Your Business Operations
 </h3>
 
 <p align="center">
