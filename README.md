@@ -16,6 +16,7 @@ Keeping You Safe
 <img src="/img/cover.png">
 
 ```
+
 A cyber security professional with 7+ years of experience in keeping clients secure from different industries such as governmental, financial, educational, technology, entertainment, and telecommunication sectors. A customer-centric professional who specializes in Penetration Testing, Cloud Security, and DevSecOps.
 
 ```
