@@ -16,8 +16,5 @@ Keeping You Safe
 <img src="/img/cover.png">
 
 ```
-Since my laptop got hacked, I've backpacked for a cyber security journey where I tirelessly in pursuit of keeping people safe. 
-Combining my technical skills in application security engineering, my soft skills in communicating with clients and employers,
-giving technical security workshops, giving cyber security awareness workshops, and continuously wanting to spread my knowledge 
-in the cyber security space, my goal became crystal clear, Keeping You Safe. 
+A cyber security professional with 7+ years of experience in keeping clients secure from different industries such as governmental, financial, educational, technology, entertainment, and telecommunication sectors. A customer-centric professional who specializes in Penetration Testing, Cloud Security, and DevSecOps.
 ```
