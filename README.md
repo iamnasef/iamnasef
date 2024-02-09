@@ -17,8 +17,8 @@ Securing Your Business Operations
 
 ```
 
-A cyber security professional with 7+ years of experience in keeping clients secure from different industries
-such as governmental, financial, educational, technology, entertainment, and telecommunication sectors.
-A customer-centric professional who specializes in Penetration Testing, Cloud Security, and DevSecOps.
+A 24+ times certified Senior Cyber Security Consultant with 8+ years of experience in building, architecting, and testing software, cloud systems, and DevOps systems to be reliable, secure, and cost-effective. I was able to apply my knowledge to ministries, fintech leaders, giant banks, technology behemoths, multiple regulator entities, and ...etc. 
+
+In summary, A customer-centric professional who specializes in Cyber Security, Cloud Engineering/Security, and DevSecOps Engineering.
 
 ```
