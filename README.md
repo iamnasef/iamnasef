@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-Securing Your Business Operations
+Fixing the world using technology and content
 </h3>
 
 <p align="center">
