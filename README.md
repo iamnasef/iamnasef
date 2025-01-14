@@ -17,8 +17,9 @@
 
 ```
 
-A 28+ times certified Senior Cyber Security Consultant with 8+ years of experience in securing business 
-operations by providing penetration testing and security awareness. I was able to apply my knowledge to 
-ministries, fintech leaders, giant banks, technology behemoths, multiple regulator entities, and ...etc.
+Experienced Penetration Tester with 8+ years helping organizations across telecommunication, ecommerce,
+finance, government, and education secure their operations. Skilled in Web, API, Mobile, Network,
+and Cloud environments, ensuring security and regulatory compliance. Passionate about continuous learning
+with 32 professional certifications.
 
 ```
