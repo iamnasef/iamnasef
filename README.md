@@ -1,7 +1,3 @@
-# YOUR TECHNICAL HOME 🏮💻
-
-
-
 <h3 align="center">
 
 </h3>
